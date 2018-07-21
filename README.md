@@ -42,6 +42,6 @@ Request:
  curl http://localhost:8082/configs
 ```
 Response:
-```json
+```
 Properties: [Property value version 3 || Other property value version 3].
 ```
