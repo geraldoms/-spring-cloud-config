@@ -1,0 +1,3 @@
+spring:
+  applicaion:
+    name: config-client

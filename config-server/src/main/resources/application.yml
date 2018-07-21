@@ -7,3 +7,5 @@ spring:
       server:
         git:
           uri: https://github.com/geraldoms/config-repository.git
+  application:
+    name: configserver
